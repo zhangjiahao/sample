@@ -1,0 +1,40 @@
+Date: 20190221, DayNight: 1, Time Consumption List :
+
+Function                                               Count       TotalTime(ms)
+_query_basic_data                                          2          880.056381 ms
+_init_st                                                   1           60.387135 ms
+_init_me                                                   1            4.000187 ms
+_process_tick_data                                         1       114936.375380 ms
+_new_query_quote_data                                      1          100.782156 ms
+
+Total time consumption: 1.15982e+05 ms
+
+Function                                               Count       TotalTime(us)
+order_convert                                             58                 390 us
+convert_rsp                                               75                 459 us
+st_destroy                                                 1                 621 us
+on_response                                               75                1508 us
+on_timer                                               16199                1758 us
+st_init                                                    1                4215 us
+on_book_convert                                       144608               35234 us
+on_book                                               144608               46922 us
+Total time consumption is 91112 us
+
+Function                                               Count       TotalTime(us)
+convert_ord                                               23                  56 us
+cancel_order                                              23                 106 us
+convert_order                                             35                 141 us
+trader_init                                                1                 235 us
+convert_rsp                                               58                 307 us
+me_destroy                                                 1                1558 us
+convert resp                                          144608                2538 us
+place_order                                               35                9599 us
+feed_quote                                            144608              110593 us
+Total time consumption is 125137 us
+
+Date: 20190221, DayNight: 1, Time Consumption List :
+
+Function                                               Count       TotalTime(ms)
+
+Total time consumption: 0.0 ms
+

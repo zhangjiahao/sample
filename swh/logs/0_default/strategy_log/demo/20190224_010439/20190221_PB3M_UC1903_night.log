@@ -1,0 +1,99 @@
+[demo][Info 100]: Cash_available 5000000.0,  Cash_asset 5000000.0, Amount_multiple is 1, exch_rate is 1.0
+[demo][Info 100]: Cash_available 5000000.0,  Cash_asset 5000000.0, Amount_multiple is 1, exch_rate is 6.5
+[demo][Info 100]: Point of Start: 2019-02-24 01:04:40.324630, count is :0
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:13)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:14)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:15)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:16)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:17)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:18)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:19)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:7)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:8)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:9)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:10)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:11)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:12)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:13)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:14)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:15)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:16)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:17)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:18)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:19)
+[demo][Info 100]: [223903500] Order Resp: 10000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [223940000] Order Resp: 10000000100 PB3M SELL OPEN 0 @ 2032.0 CANCELED 0 
+[demo][Info 100]: [223942000] Order Resp: 30000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [224214000] Order Resp: 30000000100 PB3M SELL OPEN 0 @ 2031.0 CANCELED 0 
+[demo][Info 100]: [224321000] Order Resp: 50000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [224658000] Order Resp: 50000000100 PB3M SELL OPEN 0 @ 2030.5 CANCELED 0 
+[demo][Info 100]: [225046000] Order Resp: 70000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [225312000] Order Resp: 70000000100 PB3M SELL OPEN 0 @ 2032.0 CANCELED 0 
+[demo][Info 100]: [225313000] Order Resp: 90000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [225327000] Order Resp: 90000000100 PB3M SELL OPEN 0 @ 2031.5 CANCELED 0 
+[demo][Info 100]: [225327000] Order Resp: 110000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [225359000] Order Resp: 110000000100 PB3M SELL OPEN 0 @ 2031.0 CANCELED 0 
+[demo][Info 100]: [225454000] Order Resp: 130000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [225558500] Order Resp: 130000000100 PB3M SELL OPEN 1 @ 2030.5 SUCCEED 0 
+[demo][Info 100]: [225559000] Order Resp: 140000000100 pb1905 BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [231123000] Order Resp: 140000000100 pb1905 BUY OPEN 0 @ 16790.0 CANCELED 0 
+[demo][Info 100]: [231123000] Order Resp: 160000000100 pb1905 BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [231237500] Order Resp: 160000000100 pb1905 BUY OPEN 1 @ 16800.0 PARTED 0 
+[demo][Info 100]: [231346000] Order Resp: 160000000100 pb1905 BUY OPEN 0 @ 16800.0 CANCELED 0 
+[demo][Info 100]: [231347000] Order Resp: 180000000100 pb1905 BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [231434000] Order Resp: 180000000100 pb1905 BUY OPEN 0 @ 16810.0 CANCELED 0 
+[demo][Info 100]: [231434500] Order Resp: 200000000100 pb1905 BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [231608000] Order Resp: 200000000100 pb1905 BUY OPEN 1 @ 16820.0 PARTED 0 
+[demo][Info 100]: [231956500] Order Resp: 200000000100 pb1905 BUY OPEN 2 @ 16820.0 SUCCEED 0 
+[demo][Info 100]: [231956500] Order Resp: 210000000100 PB3M BUY CLOSE 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [231959500] Order Resp: 210000000100 PB3M BUY CLOSE 1 @ 2028.5 SUCCEED 0 
+[demo][Info 100]: [232008000] Order Resp: 220000000100 pb1905 SELL CLOSE 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [232417000] Order Resp: 220000000100 pb1905 SELL CLOSE 1 @ 16825.0 PARTED 0 
+[demo][Info 100]: [232443000] Order Resp: 220000000100 pb1905 SELL CLOSE 2 @ 16825.0 PARTED 0 
+[demo][Info 100]: [232443500] Order Resp: 220000000100 pb1905 SELL CLOSE 1 @ 16825.0 SUCCEED 0 
+[demo][Info 100]: [232906000] Order Resp: 230000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [232947000] Order Resp: 230000000100 PB3M SELL OPEN 0 @ 2035.5 CANCELED 0 
+[demo][Info 100]: [232948000] Order Resp: 250000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [233138000] Order Resp: 250000000100 PB3M SELL OPEN 0 @ 2035.0 CANCELED 0 
+[demo][Info 100]: [233503000] Order Resp: 270000000100 PB3M BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [233507000] Order Resp: 270000000100 PB3M BUY OPEN 0 @ 2030.0 CANCELED 0 
+[demo][Info 100]: [233509000] Order Resp: 290000000100 PB3M BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [233513000] Order Resp: 290000000100 PB3M BUY OPEN 0 @ 2030.5 CANCELED 0 
+[demo][Info 100]: [233731000] Order Resp: 310000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [234101000] Order Resp: 310000000100 PB3M SELL OPEN 0 @ 2034.5 CANCELED 0 
+[demo][Info 100]: [234102000] Order Resp: 330000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [234337000] Order Resp: 330000000100 PB3M SELL OPEN 0 @ 2034.0 CANCELED 0 
+[demo][Info 100]: [234412000] Order Resp: 350000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [234441000] Order Resp: 350000000100 PB3M SELL OPEN 0 @ 2034.5 CANCELED 0 
+[demo][Info 100]: [234441000] Order Resp: 370000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [234500500] Order Resp: 370000000100 PB3M SELL OPEN 1 @ 2035.0 SUCCEED 0 
+[demo][Info 100]: [234501000] Order Resp: 380000000100 pb1905 BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [234759500] Order Resp: 380000000100 pb1905 BUY OPEN 0 @ 16820.0 CANCELED 0 
+[demo][Info 100]: [234800000] Order Resp: 400000000100 pb1905 BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [234852000] Order Resp: 400000000100 pb1905 BUY OPEN 3 @ 16830.0 PARTED 0 
+[demo][Info 100]: [234908500] Order Resp: 400000000100 pb1905 BUY OPEN 1 @ 16830.0 SUCCEED 0 
+[demo][Info 100]: [234908500] Order Resp: 410000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [235008000] Order Resp: 410000000100 PB3M SELL OPEN 0 @ 2038.0 CANCELED 0 
+[demo][Info 100]: [235008500] Order Resp: 430000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [235031000] Order Resp: 430000000100 PB3M SELL OPEN 0 @ 2037.0 CANCELED 0 
+[demo][Info 100]: [235033000] Order Resp: 450000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [235118500] Order Resp: 450000000100 PB3M SELL OPEN 1 @ 2036.5 SUCCEED 0 
+[demo][Info 100]: [235120000] Order Resp: 460000000100 pb1905 BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [235122000] Order Resp: 460000000100 pb1905 BUY OPEN 4 @ 16825.0 SUCCEED 0 
+[demo][Info 100]: [235128000] Order Resp: 470000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [235201000] Order Resp: 470000000100 PB3M SELL OPEN 0 @ 2037.0 CANCELED 0 
+[demo][Info 100]: [235202000] Order Resp: 490000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [235215000] Order Resp: 490000000100 PB3M SELL OPEN 0 @ 2037.0 CANCELED 0 
+[demo][Info 100]: [235215500] Order Resp: 510000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [235226000] Order Resp: 510000000100 PB3M SELL OPEN 1 @ 2036.5 SUCCEED 0 
+[demo][Info 100]: [235228000] Order Resp: 520000000100 pb1905 BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [235535500] Order Resp: 520000000100 pb1905 BUY OPEN 4 @ 16820.0 SUCCEED 0 
+[demo][Info 100]: [235536500] Order Resp: 530000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [235555000] Order Resp: 530000000100 PB3M SELL OPEN 0 @ 2037.0 CANCELED 0 
+[demo][Info 100]: [235555500] Order Resp: 550000000100 PB3M SELL OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [235703500] Order Resp: 550000000100 PB3M SELL OPEN 1 @ 2036.5 SUCCEED 0 
+[demo][Info 100]: [235708000] Order Resp: 560000000100 pb1905 BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [240049500] Order Resp: 560000000100 pb1905 BUY OPEN 0 @ 16805.0 CANCELED 0 
+[demo][Info 100]: [240052000] Order Resp: 580000000100 pb1905 BUY OPEN 0 @ 0.0 ENTRUSTED 0 
+[demo][Info 100]: [240243000] Order Resp: 580000000100 pb1905 BUY OPEN 5 @ 16815.0 SUCCEED 0 
+[demo][Info 100]: Point of End: 2019-02-24 01:06:35.372114, count is :13661

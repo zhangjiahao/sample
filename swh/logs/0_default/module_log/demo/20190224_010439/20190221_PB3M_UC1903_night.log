@@ -1,0 +1,999 @@
+[CHECK before_start] trading day: 20190221, day night: 1
+[CHECK before_start] account: AccountSHFE, cash_available: 5000000.000000, cash_asset: 5000000.000000, exch_rate: 1.000000, currency: 0
+[CHECK before_start] account: AccountLME, cash_available: 5000000.000000, cash_asset: 5000000.000000, exch_rate: 6.500000, currency: 1
+[CHECK before_start] symbol: pb1903, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190315, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: pb1904, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190415, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: pb1905, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190515, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: pb1906, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190617, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: pb1910, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20191015, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: pb1908, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190815, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: pb2002, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20200217, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: pb1907, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190715, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: pb2001, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20200115, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: pb1909, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190916, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: pb1911, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20191115, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: pb1912, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20191216, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[CHECK before_start] symbol: PB3M, account: AccountLME, exch: L, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.500000, multiplier : 25.000000
+[CHECK before_start] symbol: UC1903, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[CHECK before_start] symbol: UC1906, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[CHECK before_start] symbol: UC1904, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[CHECK before_start] symbol: UC1909, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[CHECK before_start] symbol: UC1905, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[CHECK before_start] symbol: UC1912, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[CHECK before_start] symbol: USD.CNH, account: AccountLME, exch: u, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_pos: 0, pre_short_pos: 0, pre_long_qty_remain: 0, pre_short_qty_remain: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.010000, multiplier : 0.000000
+[CHECK before_start] Open market value: 37500000.000000
+[CHECK before_start] Welcome to Check Module!
+[SmartExecution before_start] account: AccountSHFE, cash_available: 5000000.000000, cash_asset: 5000000.000000, exch_rate: 1.000000, currency: 0
+[SmartExecution before_start] account: AccountLME, cash_available: 5000000.000000, cash_asset: 5000000.000000, exch_rate: 6.500000, currency: 1
+[SmartExecution before_start] symbol: pb1903, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190315, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: pb1904, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190415, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: pb1905, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190515, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: pb1906, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190617, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: pb1910, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20191015, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: pb1908, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190815, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: pb2002, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20200217, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: pb1907, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190715, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: pb2001, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20200115, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: pb1909, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20190916, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: pb1911, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20191115, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: pb1912, account: AccountSHFE, exch: A, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20191216, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000014, yes_exchange_fee : 0.000028, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 5.000000, multiplier : 5.000000
+[SmartExecution before_start] symbol: PB3M, account: AccountLME, exch: L, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.500000, multiplier : 25.000000
+[SmartExecution before_start] symbol: UC1903, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[SmartExecution before_start] symbol: UC1906, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[SmartExecution before_start] symbol: UC1904, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[SmartExecution before_start] symbol: UC1909, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[SmartExecution before_start] symbol: UC1905, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[SmartExecution before_start] symbol: UC1912, account: AccountLME, exch: S, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 1, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.000100, multiplier : 100000.000000
+[SmartExecution before_start] symbol: USD.CNH, account: AccountLME, exch: u, max_accum_open_vol: 1000000, max_cancel_limit: 500, order_cum_open_vol: 0, expiration_date: 20300101, pre_long_qty_remain: 0, pre_short_qty_remain: 0, init_today_long_qty: 0, init_today_short_qty: 0, today_long_pos: 0, today_long_price: 0.000000, today_short_pos: 0, today_short_price: 0.000000, fee_by_lot: 0, exchange_fee : 0.000000, yes_exchange_fee : 0.000000, broker_fee : 0.000200, stamp_tax : 0.001000, acc_transfer_fee : 0.000020, tick_size : 0.010000, multiplier : 0.000000
+[SmartExecution before_start] The trading environment is Live.
+[SmartExecution before_start] Welcome to SmartExecution Module!
+[CHECK 223903500] Send CheckOrder: L PB3M 1 2032.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 223903500] =====================================================
+[CHECK 223903500] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 0.000000, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 223903500] =====================================================
+[LOADER] OrderID: 10000000100 Sent single order, PB3M SELL OPEN 1@2032.000000
+[SmartExecution 223903500] 100 OrderID: 10000000100 Sent single order, PB3M SELL OPEN 1@2032.000000
+[LOADER] OrderID: 10000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 223903500] CheckOrder Resp: 10000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 223903500] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949199.995000
+[SmartExecution 223903500] SEOrder Resp: 10000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 223903500] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949199.995000
+[CHECK 223940000] Cancel CheckOrder: L PB3M 1 2032.000000 SELL OPEN 0 -1164551681 32764 100 0 10000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2032.000000
+[SmartExecution 223940000] 100 OrderID: 10000000100 Cancel single order
+[LOADER] OrderID: 10000000100 Strategy received Canceled
+[CHECK 223940000] CheckOrder Resp: 10000000100 PB3M SELL OPEN 2032.000000 0 CANCELED 0 
+[CHECK 223940000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[SmartExecution 223940000] SEOrder Resp: 10000000100 PB3M SELL OPEN 2032.000000 0 CANCELED 0 
+[SmartExecution 223940000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[CHECK 223942000] Send CheckOrder: L PB3M 1 2031.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 223942000] =====================================================
+[CHECK 223942000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 0.000000, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 223942000] =====================================================
+[LOADER] OrderID: 30000000100 Sent single order, PB3M SELL OPEN 1@2031.000000
+[SmartExecution 223942000] 100 OrderID: 30000000100 Sent single order, PB3M SELL OPEN 1@2031.000000
+[LOADER] OrderID: 30000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 223942000] CheckOrder Resp: 30000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 223942000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949224.995000
+[SmartExecution 223942000] SEOrder Resp: 30000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 223942000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949224.995000
+[CHECK 224214000] Cancel CheckOrder: L PB3M 1 2031.000000 SELL OPEN 0 -1164551681 32764 100 0 30000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2031.000000
+[SmartExecution 224214000] 100 OrderID: 30000000100 Cancel single order
+[LOADER] OrderID: 30000000100 Strategy received Canceled
+[CHECK 224214000] CheckOrder Resp: 30000000100 PB3M SELL OPEN 2031.000000 0 CANCELED 0 
+[CHECK 224214000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[SmartExecution 224214000] SEOrder Resp: 30000000100 PB3M SELL OPEN 2031.000000 0 CANCELED 0 
+[SmartExecution 224214000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[CHECK 224321000] Send CheckOrder: L PB3M 1 2030.500000 SELL OPEN 0 0 0 100 0 0
+[CHECK 224321000] =====================================================
+[CHECK 224321000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 0.000000, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 224321000] =====================================================
+[LOADER] OrderID: 50000000100 Sent single order, PB3M SELL OPEN 1@2030.500000
+[SmartExecution 224321000] 100 OrderID: 50000000100 Sent single order, PB3M SELL OPEN 1@2030.500000
+[LOADER] OrderID: 50000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 224321000] CheckOrder Resp: 50000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 224321000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949237.495000
+[SmartExecution 224321000] SEOrder Resp: 50000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 224321000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949237.495000
+[CHECK 224658000] Cancel CheckOrder: L PB3M 1 2030.500000 SELL OPEN 0 -1164551681 32764 100 0 50000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2030.500000
+[SmartExecution 224658000] 100 OrderID: 50000000100 Cancel single order
+[LOADER] OrderID: 50000000100 Strategy received Canceled
+[CHECK 224658000] CheckOrder Resp: 50000000100 PB3M SELL OPEN 2030.500000 0 CANCELED 0 
+[CHECK 224658000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[SmartExecution 224658000] SEOrder Resp: 50000000100 PB3M SELL OPEN 2030.500000 0 CANCELED 0 
+[SmartExecution 224658000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[CHECK 225046000] Send CheckOrder: L PB3M 1 2032.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 225046000] =====================================================
+[CHECK 225046000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 0.000000, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 225046000] =====================================================
+[LOADER] OrderID: 70000000100 Sent single order, PB3M SELL OPEN 1@2032.000000
+[SmartExecution 225046000] 100 OrderID: 70000000100 Sent single order, PB3M SELL OPEN 1@2032.000000
+[LOADER] OrderID: 70000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 225046000] CheckOrder Resp: 70000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 225046000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949199.995000
+[SmartExecution 225046000] SEOrder Resp: 70000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 225046000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949199.995000
+[CHECK 225312000] Cancel CheckOrder: L PB3M 1 2032.000000 SELL OPEN 0 -1164551681 32764 100 0 70000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2032.000000
+[SmartExecution 225312000] 100 OrderID: 70000000100 Cancel single order
+[LOADER] OrderID: 70000000100 Strategy received Canceled
+[CHECK 225312000] CheckOrder Resp: 70000000100 PB3M SELL OPEN 2032.000000 0 CANCELED 0 
+[CHECK 225312000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[SmartExecution 225312000] SEOrder Resp: 70000000100 PB3M SELL OPEN 2032.000000 0 CANCELED 0 
+[SmartExecution 225312000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[CHECK 225313000] Send CheckOrder: L PB3M 1 2031.500000 SELL OPEN 0 0 0 100 0 0
+[CHECK 225313000] =====================================================
+[CHECK 225313000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 0.000000, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 225313000] =====================================================
+[LOADER] OrderID: 90000000100 Sent single order, PB3M SELL OPEN 1@2031.500000
+[SmartExecution 225313000] 100 OrderID: 90000000100 Sent single order, PB3M SELL OPEN 1@2031.500000
+[LOADER] OrderID: 90000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 225313000] CheckOrder Resp: 90000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 225313000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949212.495000
+[SmartExecution 225313000] SEOrder Resp: 90000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 225313000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949212.495000
+[CHECK 225327000] Cancel CheckOrder: L PB3M 1 2031.500000 SELL OPEN 0 -1164551681 32764 100 0 90000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2031.500000
+[SmartExecution 225327000] 100 OrderID: 90000000100 Cancel single order
+[LOADER] OrderID: 90000000100 Strategy received Canceled
+[CHECK 225327000] CheckOrder Resp: 90000000100 PB3M SELL OPEN 2031.500000 0 CANCELED 0 
+[CHECK 225327000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[SmartExecution 225327000] SEOrder Resp: 90000000100 PB3M SELL OPEN 2031.500000 0 CANCELED 0 
+[SmartExecution 225327000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[CHECK 225327000] Send CheckOrder: L PB3M 1 2031.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 225327000] =====================================================
+[CHECK 225327000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 0.000000, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 225327000] =====================================================
+[LOADER] OrderID: 110000000100 Sent single order, PB3M SELL OPEN 1@2031.000000
+[SmartExecution 225327000] 100 OrderID: 110000000100 Sent single order, PB3M SELL OPEN 1@2031.000000
+[LOADER] OrderID: 110000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 225327000] CheckOrder Resp: 110000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 225327000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949224.995000
+[SmartExecution 225327000] SEOrder Resp: 110000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 225327000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949224.995000
+[CHECK 225359000] Cancel CheckOrder: L PB3M 1 2031.000000 SELL OPEN 0 -1164551681 32764 100 0 110000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2031.000000
+[SmartExecution 225359000] 100 OrderID: 110000000100 Cancel single order
+[LOADER] OrderID: 110000000100 Strategy received Canceled
+[CHECK 225359000] CheckOrder Resp: 110000000100 PB3M SELL OPEN 2031.000000 0 CANCELED 0 
+[CHECK 225359000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[SmartExecution 225359000] SEOrder Resp: 110000000100 PB3M SELL OPEN 2031.000000 0 CANCELED 0 
+[SmartExecution 225359000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000000.000000
+[CHECK 225454000] Send CheckOrder: L PB3M 1 2030.500000 SELL OPEN 0 0 0 100 0 0
+[CHECK 225454000] =====================================================
+[CHECK 225454000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 0.000000, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 225454000] =====================================================
+[LOADER] OrderID: 130000000100 Sent single order, PB3M SELL OPEN 1@2030.500000
+[SmartExecution 225454000] 100 OrderID: 130000000100 Sent single order, PB3M SELL OPEN 1@2030.500000
+[LOADER] OrderID: 130000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 225454000] CheckOrder Resp: 130000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 225454000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949237.495000
+[SmartExecution 225454000] SEOrder Resp: 130000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 225454000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949237.495000
+[LOADER] OrderID: 130000000100 Strategy received Filled: PB3M SELL 1@2030.500000
+[CHECK 225558500] CheckOrder Resp: 130000000100 PB3M SELL OPEN 2030.500000 1 SUCCEED 0 
+[CHECK 225558500] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 0 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949237.495000
+[SmartExecution 225558500] SEOrder Resp: 130000000100 PB3M SELL OPEN 2030.500000 1 SUCCEED 0 
+[SmartExecution 225558500] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 0 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949237.495000
+[CHECK 225559000] Send CheckOrder: A pb1905 4 16790.000000 BUY OPEN 0 0 0 100 0 0
+[CHECK 225559000] =====================================================
+[CHECK 225559000] symbol: pb1905, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 0.000000, multiplier: 5.000000, exch_rate: 1.000000, m_open_market_value: 37500000.000000
+[CHECK 225559000] =====================================================
+[LOADER] OrderID: 140000000100 Sent single order, pb1905 BUY OPEN 4@16790.000000
+[SmartExecution 225559000] 100 OrderID: 140000000100 Sent single order, pb1905 BUY OPEN 4@16790.000000
+[LOADER] OrderID: 140000000100 Strategy received Entrusted, pb1905 BUY
+[CHECK 225559000] CheckOrder Resp: 140000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 225559000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4664128.205960
+[SmartExecution 225559000] SEOrder Resp: 140000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 225559000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4664128.205960
+[CHECK 231123000] Cancel CheckOrder: A pb1905 4 16790.000000 BUY OPEN 0 -1164551681 32764 100 0 140000000100
+[LOADER] OrderID: 0 Cancel single order, pb1905 BUY OPEN 4@16790.000000
+[SmartExecution 231123000] 100 OrderID: 140000000100 Cancel single order
+[LOADER] OrderID: 140000000100 Strategy received Canceled
+[CHECK 231123000] CheckOrder Resp: 140000000100 pb1905 BUY OPEN 16790.000000 0 CANCELED 0 
+[CHECK 231123000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 5000000.000000
+[SmartExecution 231123000] SEOrder Resp: 140000000100 pb1905 BUY OPEN 16790.000000 0 CANCELED 0 
+[SmartExecution 231123000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 5000000.000000
+[CHECK 231123000] Send CheckOrder: A pb1905 4 16800.000000 BUY OPEN 0 0 0 100 0 0
+[CHECK 231123000] =====================================================
+[CHECK 231123000] symbol: pb1905, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 0.000000, multiplier: 5.000000, exch_rate: 1.000000, m_open_market_value: 37500000.000000
+[CHECK 231123000] =====================================================
+[LOADER] OrderID: 160000000100 Sent single order, pb1905 BUY OPEN 4@16800.000000
+[SmartExecution 231123000] 100 OrderID: 160000000100 Sent single order, pb1905 BUY OPEN 4@16800.000000
+[LOADER] OrderID: 160000000100 Strategy received Entrusted, pb1905 BUY
+[CHECK 231123000] CheckOrder Resp: 160000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 231123000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663928.163200
+[SmartExecution 231123000] SEOrder Resp: 160000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 231123000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663928.163200
+[LOADER] OrderID: 160000000100 Strategy received Partial Filled: pb1905 BUY 1@16800.000000
+[CHECK 231239500] CheckOrder Resp: 160000000100 pb1905 BUY OPEN 16800.000000 1 PARTED 0 
+[CHECK 231239500] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 1 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 3 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663928.163200
+[SmartExecution 231239500] SEOrder Resp: 160000000100 pb1905 BUY OPEN 16800.000000 1 PARTED 0 
+[SmartExecution 231239500] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 1 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 3 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663928.163200
+[CHECK 231346000] Cancel CheckOrder: A pb1905 3 16800.000000 BUY OPEN 0 -1164551681 32764 100 0 160000000100
+[LOADER] OrderID: 0 Cancel single order, pb1905 BUY OPEN 3@16800.000000
+[SmartExecution 231346000] 100 OrderID: 160000000100 Cancel single order
+[LOADER] OrderID: 160000000100 Strategy received Canceled
+[CHECK 231346000] CheckOrder Resp: 160000000100 pb1905 BUY OPEN 16800.000000 0 CANCELED 0 
+[CHECK 231346000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 1 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4915982.040800
+[SmartExecution 231346000] SEOrder Resp: 160000000100 pb1905 BUY OPEN 16800.000000 0 CANCELED 0 
+[SmartExecution 231346000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 1 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4915982.040800
+[CHECK 231347000] Send CheckOrder: A pb1905 3 16810.000000 BUY OPEN 0 0 0 100 0 0
+[CHECK 231347000] =====================================================
+[CHECK 231347000] symbol: pb1905, long_position: 1, short_position: 0, long_notional: 16803.591840, short_notional: 0.000000, multiplier: 5.000000, exch_rate: 1.000000, m_open_market_value: 37500000.000000
+[CHECK 231347000] =====================================================
+[LOADER] OrderID: 180000000100 Sent single order, pb1905 BUY OPEN 3@16810.000000
+[SmartExecution 231347000] 100 OrderID: 180000000100 Sent single order, pb1905 BUY OPEN 3@16810.000000
+[LOADER] OrderID: 180000000100 Strategy received Entrusted, pb1905 BUY
+[CHECK 231347000] CheckOrder Resp: 180000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 231347000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 1 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 3 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663778.131130
+[SmartExecution 231347000] SEOrder Resp: 180000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 231347000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 1 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 3 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663778.131130
+[CHECK 231434000] Cancel CheckOrder: A pb1905 3 16810.000000 BUY OPEN 0 -1164551681 32764 100 0 180000000100
+[LOADER] OrderID: 0 Cancel single order, pb1905 BUY OPEN 3@16810.000000
+[SmartExecution 231434000] 100 OrderID: 180000000100 Cancel single order
+[LOADER] OrderID: 180000000100 Strategy received Canceled
+[CHECK 231434000] CheckOrder Resp: 180000000100 pb1905 BUY OPEN 16810.000000 0 CANCELED 0 
+[CHECK 231434000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 1 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4915982.040800
+[SmartExecution 231434000] SEOrder Resp: 180000000100 pb1905 BUY OPEN 16810.000000 0 CANCELED 0 
+[SmartExecution 231434000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 1 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4915982.040800
+[CHECK 231434500] Send CheckOrder: A pb1905 3 16820.000000 BUY OPEN 0 0 0 100 0 0
+[CHECK 231434500] =====================================================
+[CHECK 231434500] symbol: pb1905, long_position: 1, short_position: 0, long_notional: 16803.591840, short_notional: 0.000000, multiplier: 5.000000, exch_rate: 1.000000, m_open_market_value: 37500000.000000
+[CHECK 231434500] =====================================================
+[LOADER] OrderID: 200000000100 Sent single order, pb1905 BUY OPEN 3@16820.000000
+[SmartExecution 231434500] 100 OrderID: 200000000100 Sent single order, pb1905 BUY OPEN 3@16820.000000
+[LOADER] OrderID: 200000000100 Strategy received Entrusted, pb1905 BUY
+[CHECK 231434500] CheckOrder Resp: 200000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 231434500] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 1 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 3 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663628.099060
+[SmartExecution 231434500] SEOrder Resp: 200000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 231434500] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 1 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 3 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663628.099060
+[LOADER] OrderID: 200000000100 Strategy received Partial Filled: pb1905 BUY 1@16820.000000
+[CHECK 231608000] CheckOrder Resp: 200000000100 pb1905 BUY OPEN 16820.000000 1 PARTED 0 
+[CHECK 231608000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 2 short_pos: 0 long_open: 2 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 2 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663628.099060
+[SmartExecution 231608000] SEOrder Resp: 200000000100 pb1905 BUY OPEN 16820.000000 1 PARTED 0 
+[SmartExecution 231608000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 2 short_pos: 0 long_open: 2 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 2 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663628.099060
+[LOADER] OrderID: 200000000100 Strategy received Filled: pb1905 BUY 2@16820.000000
+[CHECK 231956500] CheckOrder Resp: 200000000100 pb1905 BUY OPEN 16820.000000 2 SUCCEED 0 
+[CHECK 231956500] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 4 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663628.099060
+[SmartExecution 231956500] SEOrder Resp: 200000000100 pb1905 BUY OPEN 16820.000000 2 SUCCEED 0 
+[SmartExecution 231956500] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 4 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663628.099060
+[CHECK 231956500] Send CheckOrder: L PB3M 1 2028.500000 BUY CLOSE 0 0 0 100 0 0
+[LOADER] OrderID: 210000000100 Sent single order, PB3M BUY CLOSE 1@2028.500000
+[SmartExecution 231956500] 100 OrderID: 210000000100 Sent single order, PB3M BUY CLOSE 1@2028.500000
+[LOADER] OrderID: 210000000100 Strategy received Entrusted, PB3M BUY
+[CHECK 231956500] CheckOrder Resp: 210000000100 PB3M BUY CLOSE 0.000000 0 ENTRUSTED 0 
+[CHECK 231956500] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 0 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 1 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949237.490000
+[SmartExecution 231956500] SEOrder Resp: 210000000100 PB3M BUY CLOSE 0.000000 0 ENTRUSTED 0 
+[SmartExecution 231956500] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 0 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 1 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949237.490000
+[LOADER] OrderID: 210000000100 Strategy received Filled: PB3M BUY 1@2028.500000
+[CHECK 232006000] CheckOrder Resp: 210000000100 PB3M BUY CLOSE 2028.500000 1 SUCCEED 0 
+[CHECK 232006000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000151.525000
+[SmartExecution 232006000] SEOrder Resp: 210000000100 PB3M BUY CLOSE 2028.500000 1 SUCCEED 0 
+[SmartExecution 232006000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4999948.455000
+[CHECK 232008000] Send CheckOrder: A pb1905 4 16825.000000 SELL CLOSE 0 0 0 100 0 0
+[LOADER] OrderID: 220000000100 Sent single order, pb1905 SELL CLOSE 4@16825.000000
+[SmartExecution 232008000] 100 OrderID: 220000000100 Sent single order, pb1905 SELL CLOSE 4@16825.000000
+[LOADER] OrderID: 220000000100 Strategy received Entrusted, pb1905 SELL
+[CHECK 232008000] CheckOrder Resp: 220000000100 pb1905 SELL CLOSE 0.000000 0 ENTRUSTED 0 
+[CHECK 232008000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 4 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 4
+Account: AccountSHFE cash_available: 4663556.155360
+[SmartExecution 232008000] SEOrder Resp: 220000000100 pb1905 SELL CLOSE 0.000000 0 ENTRUSTED 0 
+[SmartExecution 232008000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 4 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 4
+Account: AccountSHFE cash_available: 4663556.155360
+[LOADER] OrderID: 220000000100 Strategy received Partial Filled: pb1905 SELL 1@16825.000000
+[CHECK 232417000] CheckOrder Resp: 220000000100 pb1905 SELL CLOSE 16825.000000 1 PARTED 0 
+[CHECK 232417000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 3 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 1
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 3
+Account: AccountSHFE cash_available: 4747681.155360
+[SmartExecution 232417000] SEOrder Resp: 220000000100 pb1905 SELL CLOSE 16825.000000 1 PARTED 0 
+[SmartExecution 232417000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 3 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 1
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 3
+Account: AccountSHFE cash_available: 4747681.155360
+[LOADER] OrderID: 220000000100 Strategy received Partial Filled: pb1905 SELL 2@16825.000000
+[CHECK 232443000] CheckOrder Resp: 220000000100 pb1905 SELL CLOSE 16825.000000 2 PARTED 0 
+[CHECK 232443000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 3
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 1
+Account: AccountSHFE cash_available: 4915931.155360
+[SmartExecution 232443000] SEOrder Resp: 220000000100 pb1905 SELL CLOSE 16825.000000 2 PARTED 0 
+[SmartExecution 232443000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 1 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 3
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 1
+Account: AccountSHFE cash_available: 4915931.155360
+[LOADER] OrderID: 220000000100 Strategy received Filled: pb1905 SELL 1@16825.000000
+[CHECK 232443500] CheckOrder Resp: 220000000100 pb1905 SELL CLOSE 16825.000000 1 SUCCEED 0 
+[CHECK 232443500] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 5000056.155360
+[SmartExecution 232443500] SEOrder Resp: 220000000100 pb1905 SELL CLOSE 16825.000000 1 SUCCEED 0 
+[SmartExecution 232443500] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 5000056.155360
+[CHECK 232906000] Send CheckOrder: L PB3M 1 2035.500000 SELL OPEN 0 0 0 100 0 0
+[CHECK 232906000] =====================================================
+[CHECK 232906000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 4.030900, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 232906000] =====================================================
+[LOADER] OrderID: 230000000100 Sent single order, PB3M SELL OPEN 1@2035.500000
+[SmartExecution 232906000] 100 OrderID: 230000000100 Sent single order, PB3M SELL OPEN 1@2035.500000
+[LOADER] OrderID: 230000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 232906000] CheckOrder Resp: 230000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 232906000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949264.020000
+[SmartExecution 232906000] SEOrder Resp: 230000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 232906000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949060.950000
+[CHECK 232947000] Cancel CheckOrder: L PB3M 1 2035.500000 SELL OPEN 0 -1164551681 32764 100 0 230000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2035.500000
+[SmartExecution 232947000] 100 OrderID: 230000000100 Cancel single order
+[LOADER] OrderID: 230000000100 Strategy received Canceled
+[CHECK 232947000] CheckOrder Resp: 230000000100 PB3M SELL OPEN 2035.500000 0 CANCELED 0 
+[CHECK 232947000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000151.525000
+[SmartExecution 232947000] SEOrder Resp: 230000000100 PB3M SELL OPEN 2035.500000 0 CANCELED 0 
+[SmartExecution 232947000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4999948.455000
+[CHECK 232948000] Send CheckOrder: L PB3M 1 2035.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 232948000] =====================================================
+[CHECK 232948000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 4.030900, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 232948000] =====================================================
+[LOADER] OrderID: 250000000100 Sent single order, PB3M SELL OPEN 1@2035.000000
+[SmartExecution 232948000] 100 OrderID: 250000000100 Sent single order, PB3M SELL OPEN 1@2035.000000
+[LOADER] OrderID: 250000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 232948000] CheckOrder Resp: 250000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 232948000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949276.520000
+[SmartExecution 232948000] SEOrder Resp: 250000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 232948000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949073.450000
+[CHECK 233138000] Cancel CheckOrder: L PB3M 1 2035.000000 SELL OPEN 0 -1164551681 32764 100 0 250000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2035.000000
+[SmartExecution 233138000] 100 OrderID: 250000000100 Cancel single order
+[LOADER] OrderID: 250000000100 Strategy received Canceled
+[CHECK 233138000] CheckOrder Resp: 250000000100 PB3M SELL OPEN 2035.000000 0 CANCELED 0 
+[CHECK 233138000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000151.525000
+[SmartExecution 233138000] SEOrder Resp: 250000000100 PB3M SELL OPEN 2035.000000 0 CANCELED 0 
+[SmartExecution 233138000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4999948.455000
+[CHECK 233503000] Send CheckOrder: L PB3M 1 2030.000000 BUY OPEN 0 0 0 100 0 0
+[CHECK 233503000] =====================================================
+[CHECK 233503000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 4.030900, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 233503000] =====================================================
+[LOADER] OrderID: 270000000100 Sent single order, PB3M BUY OPEN 1@2030.000000
+[SmartExecution 233503000] 100 OrderID: 270000000100 Sent single order, PB3M BUY OPEN 1@2030.000000
+[LOADER] OrderID: 270000000100 Strategy received Entrusted, PB3M BUY
+[CHECK 233503000] CheckOrder Resp: 270000000100 PB3M BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 233503000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 1 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949401.520000
+[SmartExecution 233503000] SEOrder Resp: 270000000100 PB3M BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 233503000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 1 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949198.450000
+[CHECK 233507000] Cancel CheckOrder: L PB3M 1 2030.000000 BUY OPEN 0 -1164551681 32764 100 0 270000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M BUY OPEN 1@2030.000000
+[SmartExecution 233507000] 100 OrderID: 270000000100 Cancel single order
+[LOADER] OrderID: 270000000100 Strategy received Canceled
+[CHECK 233507000] CheckOrder Resp: 270000000100 PB3M BUY OPEN 2030.000000 0 CANCELED 0 
+[CHECK 233507000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000151.525000
+[SmartExecution 233507000] SEOrder Resp: 270000000100 PB3M BUY OPEN 2030.000000 0 CANCELED 0 
+[SmartExecution 233507000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4999948.455000
+[CHECK 233509000] Send CheckOrder: L PB3M 1 2030.500000 BUY OPEN 0 0 0 100 0 0
+[CHECK 233509000] =====================================================
+[CHECK 233509000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 4.030900, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 233509000] =====================================================
+[LOADER] OrderID: 290000000100 Sent single order, PB3M BUY OPEN 1@2030.500000
+[SmartExecution 233509000] 100 OrderID: 290000000100 Sent single order, PB3M BUY OPEN 1@2030.500000
+[LOADER] OrderID: 290000000100 Strategy received Entrusted, PB3M BUY
+[CHECK 233509000] CheckOrder Resp: 290000000100 PB3M BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 233509000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 1 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949389.020000
+[SmartExecution 233509000] SEOrder Resp: 290000000100 PB3M BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 233509000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 1 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949185.950000
+[CHECK 233513000] Cancel CheckOrder: L PB3M 1 2030.500000 BUY OPEN 0 -1164551681 32764 100 0 290000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M BUY OPEN 1@2030.500000
+[SmartExecution 233513000] 100 OrderID: 290000000100 Cancel single order
+[LOADER] OrderID: 290000000100 Strategy received Canceled
+[CHECK 233513000] CheckOrder Resp: 290000000100 PB3M BUY OPEN 2030.500000 0 CANCELED 0 
+[CHECK 233513000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000151.525000
+[SmartExecution 233513000] SEOrder Resp: 290000000100 PB3M BUY OPEN 2030.500000 0 CANCELED 0 
+[SmartExecution 233513000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4999948.455000
+[CHECK 233731000] Send CheckOrder: L PB3M 1 2034.500000 SELL OPEN 0 0 0 100 0 0
+[CHECK 233731000] =====================================================
+[CHECK 233731000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 4.030900, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 233731000] =====================================================
+[LOADER] OrderID: 310000000100 Sent single order, PB3M SELL OPEN 1@2034.500000
+[SmartExecution 233731000] 100 OrderID: 310000000100 Sent single order, PB3M SELL OPEN 1@2034.500000
+[LOADER] OrderID: 310000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 233731000] CheckOrder Resp: 310000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 233731000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949289.020000
+[SmartExecution 233731000] SEOrder Resp: 310000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 233731000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949085.950000
+[CHECK 234101000] Cancel CheckOrder: L PB3M 1 2034.500000 SELL OPEN 0 -1164551681 32764 100 0 310000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2034.500000
+[SmartExecution 234101000] 100 OrderID: 310000000100 Cancel single order
+[LOADER] OrderID: 310000000100 Strategy received Canceled
+[CHECK 234101000] CheckOrder Resp: 310000000100 PB3M SELL OPEN 2034.500000 0 CANCELED 0 
+[CHECK 234101000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000151.525000
+[SmartExecution 234101000] SEOrder Resp: 310000000100 PB3M SELL OPEN 2034.500000 0 CANCELED 0 
+[SmartExecution 234101000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4999948.455000
+[CHECK 234102000] Send CheckOrder: L PB3M 1 2034.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 234102000] =====================================================
+[CHECK 234102000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 4.030900, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 234102000] =====================================================
+[LOADER] OrderID: 330000000100 Sent single order, PB3M SELL OPEN 1@2034.000000
+[SmartExecution 234102000] 100 OrderID: 330000000100 Sent single order, PB3M SELL OPEN 1@2034.000000
+[LOADER] OrderID: 330000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 234102000] CheckOrder Resp: 330000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 234102000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949301.520000
+[SmartExecution 234102000] SEOrder Resp: 330000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 234102000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949098.450000
+[CHECK 234337000] Cancel CheckOrder: L PB3M 1 2034.000000 SELL OPEN 0 -1164551681 32764 100 0 330000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2034.000000
+[SmartExecution 234337000] 100 OrderID: 330000000100 Cancel single order
+[LOADER] OrderID: 330000000100 Strategy received Canceled
+[CHECK 234337000] CheckOrder Resp: 330000000100 PB3M SELL OPEN 2034.000000 0 CANCELED 0 
+[CHECK 234337000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000151.525000
+[SmartExecution 234337000] SEOrder Resp: 330000000100 PB3M SELL OPEN 2034.000000 0 CANCELED 0 
+[SmartExecution 234337000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4999948.455000
+[CHECK 234412000] Send CheckOrder: L PB3M 1 2034.500000 SELL OPEN 0 0 0 100 0 0
+[CHECK 234412000] =====================================================
+[CHECK 234412000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 4.030900, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 234412000] =====================================================
+[LOADER] OrderID: 350000000100 Sent single order, PB3M SELL OPEN 1@2034.500000
+[SmartExecution 234412000] 100 OrderID: 350000000100 Sent single order, PB3M SELL OPEN 1@2034.500000
+[LOADER] OrderID: 350000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 234412000] CheckOrder Resp: 350000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 234412000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949289.020000
+[SmartExecution 234412000] SEOrder Resp: 350000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 234412000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949085.950000
+[CHECK 234441000] Cancel CheckOrder: L PB3M 1 2034.500000 SELL OPEN 0 -1164551681 32764 100 0 350000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2034.500000
+[SmartExecution 234441000] 100 OrderID: 350000000100 Cancel single order
+[LOADER] OrderID: 350000000100 Strategy received Canceled
+[CHECK 234441000] CheckOrder Resp: 350000000100 PB3M SELL OPEN 2034.500000 0 CANCELED 0 
+[CHECK 234441000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 5000151.525000
+[SmartExecution 234441000] SEOrder Resp: 350000000100 PB3M SELL OPEN 2034.500000 0 CANCELED 0 
+[SmartExecution 234441000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4999948.455000
+[CHECK 234441000] Send CheckOrder: L PB3M 1 2034.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 234441000] =====================================================
+[CHECK 234441000] symbol: PB3M, long_position: 0, short_position: 0, long_notional: 0.000000, short_notional: 4.030900, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 234441000] =====================================================
+[LOADER] OrderID: 370000000100 Sent single order, PB3M SELL OPEN 1@2034.000000
+[SmartExecution 234441000] 100 OrderID: 370000000100 Sent single order, PB3M SELL OPEN 1@2034.000000
+[LOADER] OrderID: 370000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 234441000] CheckOrder Resp: 370000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 234441000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949301.520000
+[SmartExecution 234441000] SEOrder Resp: 370000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 234441000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 0 long_close: 1 short_open: 1 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949098.450000
+[LOADER] OrderID: 370000000100 Strategy received Filled: PB3M SELL 1@2035.000000
+[CHECK 234458000] CheckOrder Resp: 370000000100 PB3M SELL OPEN 2035.000000 1 SUCCEED 0 
+[CHECK 234458000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949276.520000
+[SmartExecution 234458000] SEOrder Resp: 370000000100 PB3M SELL OPEN 2035.000000 1 SUCCEED 0 
+[SmartExecution 234458000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949073.450000
+[CHECK 234501000] Send CheckOrder: A pb1905 4 16820.000000 BUY OPEN 0 0 0 100 0 0
+[CHECK 234501000] =====================================================
+[CHECK 234501000] symbol: pb1905, long_position: 0, short_position: 0, long_notional: -11.231072, short_notional: 0.000000, multiplier: 5.000000, exch_rate: 1.000000, m_open_market_value: 37500000.000000
+[CHECK 234501000] =====================================================
+[LOADER] OrderID: 380000000100 Sent single order, pb1905 BUY OPEN 4@16820.000000
+[SmartExecution 234501000] 100 OrderID: 380000000100 Sent single order, pb1905 BUY OPEN 4@16820.000000
+[LOADER] OrderID: 380000000100 Strategy received Entrusted, pb1905 BUY
+[CHECK 234501000] CheckOrder Resp: 380000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 234501000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663584.233040
+[SmartExecution 234501000] SEOrder Resp: 380000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 234501000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663584.233040
+[CHECK 234759500] Cancel CheckOrder: A pb1905 4 16820.000000 BUY OPEN 0 -1164551681 32764 100 0 380000000100
+[LOADER] OrderID: 0 Cancel single order, pb1905 BUY OPEN 4@16820.000000
+[SmartExecution 234759500] 100 OrderID: 380000000100 Cancel single order
+[LOADER] OrderID: 380000000100 Strategy received Canceled
+[CHECK 234759500] CheckOrder Resp: 380000000100 pb1905 BUY OPEN 16820.000000 0 CANCELED 0 
+[CHECK 234759500] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 5000056.155360
+[SmartExecution 234759500] SEOrder Resp: 380000000100 pb1905 BUY OPEN 16820.000000 0 CANCELED 0 
+[SmartExecution 234759500] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 5000056.155360
+[CHECK 234800000] Send CheckOrder: A pb1905 4 16830.000000 BUY OPEN 0 0 0 100 0 0
+[CHECK 234800000] =====================================================
+[CHECK 234800000] symbol: pb1905, long_position: 0, short_position: 0, long_notional: -11.231072, short_notional: 0.000000, multiplier: 5.000000, exch_rate: 1.000000, m_open_market_value: 37500000.000000
+[CHECK 234800000] =====================================================
+[LOADER] OrderID: 400000000100 Sent single order, pb1905 BUY OPEN 4@16830.000000
+[SmartExecution 234800000] 100 OrderID: 400000000100 Sent single order, pb1905 BUY OPEN 4@16830.000000
+[LOADER] OrderID: 400000000100 Strategy received Entrusted, pb1905 BUY
+[CHECK 234800000] CheckOrder Resp: 400000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 234800000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663384.190280
+[SmartExecution 234800000] SEOrder Resp: 400000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 234800000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 0 long_open: 4 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663384.190280
+[LOADER] OrderID: 400000000100 Strategy received Partial Filled: pb1905 BUY 3@16830.000000
+[CHECK 234852000] CheckOrder Resp: 400000000100 pb1905 BUY OPEN 16830.000000 3 PARTED 0 
+[CHECK 234852000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 3 short_pos: 0 long_open: 7 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 1 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663384.190280
+[SmartExecution 234852000] SEOrder Resp: 400000000100 pb1905 BUY OPEN 16830.000000 3 PARTED 0 
+[SmartExecution 234852000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 3 short_pos: 0 long_open: 7 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 1 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663384.190280
+[LOADER] OrderID: 400000000100 Strategy received Filled: pb1905 BUY 1@16830.000000
+[CHECK 234908500] CheckOrder Resp: 400000000100 pb1905 BUY OPEN 16830.000000 1 SUCCEED 0 
+[CHECK 234908500] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 4 short_pos: 0 long_open: 8 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663384.190280
+[SmartExecution 234908500] SEOrder Resp: 400000000100 pb1905 BUY OPEN 16830.000000 1 SUCCEED 0 
+[SmartExecution 234908500] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 4 short_pos: 0 long_open: 8 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4663384.190280
+[CHECK 234908500] Send CheckOrder: L PB3M 1 2038.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 234908500] =====================================================
+[CHECK 234908500] symbol: PB3M, long_position: 0, short_position: 1, long_notional: 0.000000, short_notional: 2041.066100, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 234908500] =====================================================
+[LOADER] OrderID: 410000000100 Sent single order, PB3M SELL OPEN 1@2038.000000
+[SmartExecution 234908500] 100 OrderID: 410000000100 Sent single order, PB3M SELL OPEN 1@2038.000000
+[LOADER] OrderID: 410000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 234908500] CheckOrder Resp: 410000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 234908500] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898326.515000
+[SmartExecution 234908500] SEOrder Resp: 410000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 234908500] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898123.445000
+[CHECK 235008000] Cancel CheckOrder: L PB3M 1 2038.000000 SELL OPEN 0 -1164551681 32764 100 0 410000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2038.000000
+[SmartExecution 235008000] 100 OrderID: 410000000100 Cancel single order
+[LOADER] OrderID: 410000000100 Strategy received Canceled
+[CHECK 235008000] CheckOrder Resp: 410000000100 PB3M SELL OPEN 2038.000000 0 CANCELED 0 
+[CHECK 235008000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949276.520000
+[SmartExecution 235008000] SEOrder Resp: 410000000100 PB3M SELL OPEN 2038.000000 0 CANCELED 0 
+[SmartExecution 235008000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949073.450000
+[CHECK 235008500] Send CheckOrder: L PB3M 1 2037.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 235008500] =====================================================
+[CHECK 235008500] symbol: PB3M, long_position: 0, short_position: 1, long_notional: 0.000000, short_notional: 2041.066100, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 235008500] =====================================================
+[LOADER] OrderID: 430000000100 Sent single order, PB3M SELL OPEN 1@2037.000000
+[SmartExecution 235008500] 100 OrderID: 430000000100 Sent single order, PB3M SELL OPEN 1@2037.000000
+[LOADER] OrderID: 430000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 235008500] CheckOrder Resp: 430000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 235008500] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898351.515000
+[SmartExecution 235008500] SEOrder Resp: 430000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 235008500] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898148.445000
+[CHECK 235031000] Cancel CheckOrder: L PB3M 1 2037.000000 SELL OPEN 0 -1164551681 32764 100 0 430000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2037.000000
+[SmartExecution 235031000] 100 OrderID: 430000000100 Cancel single order
+[LOADER] OrderID: 430000000100 Strategy received Canceled
+[CHECK 235031000] CheckOrder Resp: 430000000100 PB3M SELL OPEN 2037.000000 0 CANCELED 0 
+[CHECK 235031000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949276.520000
+[SmartExecution 235031000] SEOrder Resp: 430000000100 PB3M SELL OPEN 2037.000000 0 CANCELED 0 
+[SmartExecution 235031000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4949073.450000
+[CHECK 235033000] Send CheckOrder: L PB3M 1 2036.500000 SELL OPEN 0 0 0 100 0 0
+[CHECK 235033000] =====================================================
+[CHECK 235033000] symbol: PB3M, long_position: 0, short_position: 1, long_notional: 0.000000, short_notional: 2041.066100, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 235033000] =====================================================
+[LOADER] OrderID: 450000000100 Sent single order, PB3M SELL OPEN 1@2036.500000
+[SmartExecution 235033000] 100 OrderID: 450000000100 Sent single order, PB3M SELL OPEN 1@2036.500000
+[LOADER] OrderID: 450000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 235033000] CheckOrder Resp: 450000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 235033000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898364.015000
+[SmartExecution 235033000] SEOrder Resp: 450000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 235033000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 1 long_open: 0 long_close: 1 short_open: 2 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898160.945000
+[LOADER] OrderID: 450000000100 Strategy received Filled: PB3M SELL 1@2036.500000
+[CHECK 235118000] CheckOrder Resp: 450000000100 PB3M SELL OPEN 2036.500000 1 SUCCEED 0 
+[CHECK 235118000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898364.015000
+[SmartExecution 235118000] SEOrder Resp: 450000000100 PB3M SELL OPEN 2036.500000 1 SUCCEED 0 
+[SmartExecution 235118000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898160.945000
+[CHECK 235120000] Send CheckOrder: A pb1905 4 16825.000000 BUY OPEN 0 0 0 100 0 0
+[CHECK 235120000] =====================================================
+[CHECK 235120000] symbol: pb1905, long_position: 4, short_position: 0, long_notional: 67323.161944, short_notional: 0.000000, multiplier: 5.000000, exch_rate: 1.000000, m_open_market_value: 37500000.000000
+[CHECK 235120000] =====================================================
+[LOADER] OrderID: 460000000100 Sent single order, pb1905 BUY OPEN 4@16825.000000
+[SmartExecution 235120000] 100 OrderID: 460000000100 Sent single order, pb1905 BUY OPEN 4@16825.000000
+[LOADER] OrderID: 460000000100 Strategy received Entrusted, pb1905 BUY
+[CHECK 235120000] CheckOrder Resp: 460000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 235120000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 4 short_pos: 0 long_open: 8 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4326812.246580
+[SmartExecution 235120000] SEOrder Resp: 460000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 235120000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 4 short_pos: 0 long_open: 8 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4326812.246580
+[LOADER] OrderID: 460000000100 Strategy received Filled: pb1905 BUY 4@16825.000000
+[CHECK 235126000] CheckOrder Resp: 460000000100 pb1905 BUY OPEN 16825.000000 4 SUCCEED 0 
+[CHECK 235126000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 8 short_pos: 0 long_open: 12 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4326812.246580
+[SmartExecution 235126000] SEOrder Resp: 460000000100 pb1905 BUY OPEN 16825.000000 4 SUCCEED 0 
+[SmartExecution 235126000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 8 short_pos: 0 long_open: 12 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 4326812.246580
+[CHECK 235128000] Send CheckOrder: L PB3M 1 2037.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 235128000] =====================================================
+[CHECK 235128000] symbol: PB3M, long_position: 0, short_position: 2, long_notional: 0.000000, short_notional: 4079.602800, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 235128000] =====================================================
+[LOADER] OrderID: 470000000100 Sent single order, PB3M SELL OPEN 1@2037.000000
+[SmartExecution 235128000] 100 OrderID: 470000000100 Sent single order, PB3M SELL OPEN 1@2037.000000
+[LOADER] OrderID: 470000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 235128000] CheckOrder Resp: 470000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 235128000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4847439.010000
+[SmartExecution 235128000] SEOrder Resp: 470000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 235128000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4847235.940000
+[CHECK 235201000] Cancel CheckOrder: L PB3M 1 2037.000000 SELL OPEN 0 -1164551681 32764 100 0 470000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2037.000000
+[SmartExecution 235201000] 100 OrderID: 470000000100 Cancel single order
+[LOADER] OrderID: 470000000100 Strategy received Canceled
+[CHECK 235201000] CheckOrder Resp: 470000000100 PB3M SELL OPEN 2037.000000 0 CANCELED 0 
+[CHECK 235201000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898364.015000
+[SmartExecution 235201000] SEOrder Resp: 470000000100 PB3M SELL OPEN 2037.000000 0 CANCELED 0 
+[SmartExecution 235201000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898160.945000
+[CHECK 235202000] Send CheckOrder: L PB3M 1 2037.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 235202000] =====================================================
+[CHECK 235202000] symbol: PB3M, long_position: 0, short_position: 2, long_notional: 0.000000, short_notional: 4079.602800, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 235202000] =====================================================
+[LOADER] OrderID: 490000000100 Sent single order, PB3M SELL OPEN 1@2037.000000
+[SmartExecution 235202000] 100 OrderID: 490000000100 Sent single order, PB3M SELL OPEN 1@2037.000000
+[LOADER] OrderID: 490000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 235202000] CheckOrder Resp: 490000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 235202000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4847439.010000
+[SmartExecution 235202000] SEOrder Resp: 490000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 235202000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4847235.940000
+[CHECK 235215000] Cancel CheckOrder: L PB3M 1 2037.000000 SELL OPEN 0 -1164551681 32764 100 0 490000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2037.000000
+[SmartExecution 235215000] 100 OrderID: 490000000100 Cancel single order
+[LOADER] OrderID: 490000000100 Strategy received Canceled
+[CHECK 235215000] CheckOrder Resp: 490000000100 PB3M SELL OPEN 2037.000000 0 CANCELED 0 
+[CHECK 235215000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898364.015000
+[SmartExecution 235215000] SEOrder Resp: 490000000100 PB3M SELL OPEN 2037.000000 0 CANCELED 0 
+[SmartExecution 235215000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4898160.945000
+[CHECK 235215500] Send CheckOrder: L PB3M 1 2036.500000 SELL OPEN 0 0 0 100 0 0
+[CHECK 235215500] =====================================================
+[CHECK 235215500] symbol: PB3M, long_position: 0, short_position: 2, long_notional: 0.000000, short_notional: 4079.602800, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 235215500] =====================================================
+[LOADER] OrderID: 510000000100 Sent single order, PB3M SELL OPEN 1@2036.500000
+[SmartExecution 235215500] 100 OrderID: 510000000100 Sent single order, PB3M SELL OPEN 1@2036.500000
+[LOADER] OrderID: 510000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 235215500] CheckOrder Resp: 510000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 235215500] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4847451.510000
+[SmartExecution 235215500] SEOrder Resp: 510000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 235215500] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 2 long_open: 0 long_close: 1 short_open: 3 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4847248.440000
+[LOADER] OrderID: 510000000100 Strategy received Filled: PB3M SELL 1@2036.500000
+[CHECK 235226000] CheckOrder Resp: 510000000100 PB3M SELL OPEN 2036.500000 1 SUCCEED 0 
+[CHECK 235226000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 3 long_open: 0 long_close: 1 short_open: 4 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4847451.510000
+[SmartExecution 235226000] SEOrder Resp: 510000000100 PB3M SELL OPEN 2036.500000 1 SUCCEED 0 
+[SmartExecution 235226000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 3 long_open: 0 long_close: 1 short_open: 4 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4847248.440000
+[CHECK 235228000] Send CheckOrder: A pb1905 4 16820.000000 BUY OPEN 0 0 0 100 0 0
+[CHECK 235228000] =====================================================
+[CHECK 235228000] symbol: pb1905, long_position: 8, short_position: 0, long_notional: 134637.550684, short_notional: 0.000000, multiplier: 5.000000, exch_rate: 1.000000, m_open_market_value: 37500000.000000
+[CHECK 235228000] =====================================================
+[LOADER] OrderID: 520000000100 Sent single order, pb1905 BUY OPEN 4@16820.000000
+[SmartExecution 235228000] 100 OrderID: 520000000100 Sent single order, pb1905 BUY OPEN 4@16820.000000
+[LOADER] OrderID: 520000000100 Strategy received Entrusted, pb1905 BUY
+[CHECK 235228000] CheckOrder Resp: 520000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 235228000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 8 short_pos: 0 long_open: 12 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3990340.324260
+[SmartExecution 235228000] SEOrder Resp: 520000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 235228000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 8 short_pos: 0 long_open: 12 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 4 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3990340.324260
+[LOADER] OrderID: 520000000100 Strategy received Filled: pb1905 BUY 4@16820.000000
+[CHECK 235536500] CheckOrder Resp: 520000000100 pb1905 BUY OPEN 16820.000000 4 SUCCEED 0 
+[CHECK 235536500] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 12 short_pos: 0 long_open: 16 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3990340.324260
+[SmartExecution 235536500] SEOrder Resp: 520000000100 pb1905 BUY OPEN 16820.000000 4 SUCCEED 0 
+[SmartExecution 235536500] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 12 short_pos: 0 long_open: 16 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3990340.324260
+[CHECK 235536500] Send CheckOrder: L PB3M 1 2037.000000 SELL OPEN 0 0 0 100 0 0
+[CHECK 235536500] =====================================================
+[CHECK 235536500] symbol: PB3M, long_position: 0, short_position: 3, long_notional: 0.000000, short_notional: 6118.139500, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 235536500] =====================================================
+[LOADER] OrderID: 530000000100 Sent single order, PB3M SELL OPEN 1@2037.000000
+[SmartExecution 235536500] 100 OrderID: 530000000100 Sent single order, PB3M SELL OPEN 1@2037.000000
+[LOADER] OrderID: 530000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 235536500] CheckOrder Resp: 530000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 235536500] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 3 long_open: 0 long_close: 1 short_open: 4 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4796526.505000
+[SmartExecution 235536500] SEOrder Resp: 530000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 235536500] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 3 long_open: 0 long_close: 1 short_open: 4 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4796323.435000
+[CHECK 235555000] Cancel CheckOrder: L PB3M 1 2037.000000 SELL OPEN 0 -1164551681 32764 100 0 530000000100
+[LOADER] OrderID: 0 Cancel single order, PB3M SELL OPEN 1@2037.000000
+[SmartExecution 235555000] 100 OrderID: 530000000100 Cancel single order
+[LOADER] OrderID: 530000000100 Strategy received Canceled
+[CHECK 235555000] CheckOrder Resp: 530000000100 PB3M SELL OPEN 2037.000000 0 CANCELED 0 
+[CHECK 235555000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 3 long_open: 0 long_close: 1 short_open: 4 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4847451.510000
+[SmartExecution 235555000] SEOrder Resp: 530000000100 PB3M SELL OPEN 2037.000000 0 CANCELED 0 
+[SmartExecution 235555000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 3 long_open: 0 long_close: 1 short_open: 4 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4847248.440000
+[CHECK 235555500] Send CheckOrder: L PB3M 1 2036.500000 SELL OPEN 0 0 0 100 0 0
+[CHECK 235555500] =====================================================
+[CHECK 235555500] symbol: PB3M, long_position: 0, short_position: 3, long_notional: 0.000000, short_notional: 6118.139500, multiplier: 25.000000, exch_rate: 6.500000, m_open_market_value: 37500000.000000
+[CHECK 235555500] =====================================================
+[LOADER] OrderID: 550000000100 Sent single order, PB3M SELL OPEN 1@2036.500000
+[SmartExecution 235555500] 100 OrderID: 550000000100 Sent single order, PB3M SELL OPEN 1@2036.500000
+[LOADER] OrderID: 550000000100 Strategy received Entrusted, PB3M SELL
+[CHECK 235555500] CheckOrder Resp: 550000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 235555500] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 3 long_open: 0 long_close: 1 short_open: 4 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4796539.005000
+[SmartExecution 235555500] SEOrder Resp: 550000000100 PB3M SELL OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 235555500] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 3 long_open: 0 long_close: 1 short_open: 4 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 1 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4796335.935000
+[LOADER] OrderID: 550000000100 Strategy received Filled: PB3M SELL 1@2036.500000
+[CHECK 235706000] CheckOrder Resp: 550000000100 PB3M SELL OPEN 2036.500000 1 SUCCEED 0 
+[CHECK 235706000] CheckContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 4 long_open: 0 long_close: 1 short_open: 5 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4796539.005000
+[SmartExecution 235706000] SEOrder Resp: 550000000100 PB3M SELL OPEN 2036.500000 1 SUCCEED 0 
+[SmartExecution 235706000] SEContract: PB3M pre_long_remain: 0 pre_short_remain: 0 long_pos: 0 short_pos: 4 long_open: 0 long_close: 1 short_open: 5 short_close: 0
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountLME cash_available: 4796335.935000
+[CHECK 235708000] Send CheckOrder: A pb1905 5 16805.000000 BUY OPEN 0 0 0 100 0 0
+[CHECK 235708000] =====================================================
+[CHECK 235708000] symbol: pb1905, long_position: 12, short_position: 0, long_notional: 201931.935148, short_notional: 0.000000, multiplier: 5.000000, exch_rate: 1.000000, m_open_market_value: 37500000.000000
+[CHECK 235708000] =====================================================
+[LOADER] OrderID: 560000000100 Sent single order, pb1905 BUY OPEN 5@16805.000000
+[SmartExecution 235708000] 100 OrderID: 560000000100 Sent single order, pb1905 BUY OPEN 5@16805.000000
+[LOADER] OrderID: 560000000100 Strategy received Entrusted, pb1905 BUY
+[CHECK 235708000] CheckOrder Resp: 560000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 235708000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 12 short_pos: 0 long_open: 16 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 5 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3570125.501535
+[SmartExecution 235708000] SEOrder Resp: 560000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 235708000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 12 short_pos: 0 long_open: 16 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 5 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3570125.501535
+[CHECK 240049500] Cancel CheckOrder: A pb1905 5 16805.000000 BUY OPEN 0 -1164551681 32764 100 0 560000000100
+[LOADER] OrderID: 0 Cancel single order, pb1905 BUY OPEN 5@16805.000000
+[SmartExecution 240049500] 100 OrderID: 560000000100 Cancel single order
+[LOADER] OrderID: 560000000100 Strategy received Canceled
+[CHECK 240049500] CheckOrder Resp: 560000000100 pb1905 BUY OPEN 16805.000000 0 CANCELED 0 
+[CHECK 240049500] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 12 short_pos: 0 long_open: 16 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3990340.324260
+[SmartExecution 240049500] SEOrder Resp: 560000000100 pb1905 BUY OPEN 16805.000000 0 CANCELED 0 
+[SmartExecution 240049500] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 12 short_pos: 0 long_open: 16 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3990340.324260
+[CHECK 240052000] Send CheckOrder: A pb1905 5 16815.000000 BUY OPEN 0 0 0 100 0 0
+[CHECK 240052000] =====================================================
+[CHECK 240052000] symbol: pb1905, long_position: 12, short_position: 0, long_notional: 201931.935148, short_notional: 0.000000, multiplier: 5.000000, exch_rate: 1.000000, m_open_market_value: 37500000.000000
+[CHECK 240052000] =====================================================
+[LOADER] OrderID: 580000000100 Sent single order, pb1905 BUY OPEN 5@16815.000000
+[SmartExecution 240052000] 100 OrderID: 580000000100 Sent single order, pb1905 BUY OPEN 5@16815.000000
+[LOADER] OrderID: 580000000100 Strategy received Entrusted, pb1905 BUY
+[CHECK 240052000] CheckOrder Resp: 580000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[CHECK 240052000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 12 short_pos: 0 long_open: 16 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 5 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3569875.448085
+[SmartExecution 240052000] SEOrder Resp: 580000000100 pb1905 BUY OPEN 0.000000 0 ENTRUSTED 0 
+[SmartExecution 240052000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 12 short_pos: 0 long_open: 16 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 5 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3569875.448085
+[LOADER] OrderID: 580000000100 Strategy received Filled: pb1905 BUY 5@16815.000000
+[CHECK 240243000] CheckOrder Resp: 580000000100 pb1905 BUY OPEN 16815.000000 5 SUCCEED 0 
+[CHECK 240243000] CheckContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 17 short_pos: 0 long_open: 21 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3569875.448085
+[SmartExecution 240243000] SEOrder Resp: 580000000100 pb1905 BUY OPEN 16815.000000 5 SUCCEED 0 
+[SmartExecution 240243000] SEContract: pb1905 pre_long_remain: 0 pre_short_remain: 0 long_pos: 17 short_pos: 0 long_open: 21 long_close: 0 short_open: 0 short_close: 4
+pending_buy_open_size: 0 pending_sell_open_size: 0 pending_buy_close_size: 0 pending_sell_close_size: 0
+Account: AccountSHFE cash_available: 3569875.448085
+[SmartExecution 273000000] SDP destruction
+[CHECK 273000000] It is over: ~CheckHandler

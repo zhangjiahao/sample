@@ -1,0 +1,24 @@
+[demo][Info 100]: Cash_available 5000000.0,  Cash_asset 5000000.0, Amount_multiple is 1, exch_rate is 1.0
+[demo][Info 100]: Cash_available 5000000.0,  Cash_asset 5000000.0, Amount_multiple is 1, exch_rate is 6.5
+[demo][Info 100]: Point of Start: 2019-02-24 01:10:21.032273, count is :0
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:13)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:14)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:15)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:16)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:17)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:18)
+WARN: get main code failed(date:20190221, day_night:1, product:pb, rank:19)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:7)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:8)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:9)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:10)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:11)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:12)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:13)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:14)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:15)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:16)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:17)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:18)
+WARN: get main code failed(date:20190221, day_night:1, product:UC, rank:19)
+[demo][Info 100]: Point of End: 2019-02-24 01:10:21.175694, count is :113

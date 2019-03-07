@@ -1,0 +1,31 @@
+Date: 20190221, DayNight: 1, Time Consumption List :
+
+Function                                               Count       TotalTime(ms)
+_init_st                                                   1           58.097124 ms
+_init_me                                                   1            4.419088 ms
+_new_query_quote_data                                      1          100.794077 ms
+_query_basic_data                                          2          882.451296 ms
+
+Total time consumption: 1045.76 ms
+
+Function                                               Count       TotalTime(us)
+on_timer                                                 401                  30 us
+on_book_convert                                         1763                 546 us
+on_book                                                 1763                 606 us
+st_destroy                                                 1                 638 us
+st_init                                                    1                4202 us
+Total time consumption is 6023 us
+
+Function                                               Count       TotalTime(us)
+convert resp                                            1763                  32 us
+me_destroy                                                 1                  94 us
+trader_init                                                1                 199 us
+feed_quote                                              1763                1454 us
+Total time consumption is 1781 us
+
+Date: 20190221, DayNight: 1, Time Consumption List :
+
+Function                                               Count       TotalTime(ms)
+
+Total time consumption: 0.0 ms
+
